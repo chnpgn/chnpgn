@@ -71,9 +71,9 @@ Welcome to my GitHub profile! I'm a results-driven Senior Full-Stack Developer w
 
 ## 🔗 Let's Connect
 
-- **LinkedIn:** [Your Profile](https://linkedin.com/in/chnpgn)
+- **LinkedIn:** [@chnpgn](https://linkedin.com/in/chnpgn)
 - **Email:** chnpgn@gmail.com
-- **Portfolio:** [Your Website](https://ytilaer.co)
+- **Portfolio:** [ytilaer](https://ytilaer.co)
 
 ---
 
